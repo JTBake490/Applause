@@ -42,8 +42,10 @@ Example 4:
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
 Edit:
-To create the database use: 
+To create the Postgresql database use: 
 
     \i 'relative path'
+
+Replace 'relative path' with your actual relative path.
 
 To change the quieries simply change the number of countries/devices or change the countries/devices.
