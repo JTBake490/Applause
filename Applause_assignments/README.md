@@ -39,3 +39,11 @@ Example 4:
 * iphone4
 * iphone5
 
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Edit:
+To create the database use: 
+
+    \i 'relative path'
+
+To change the quieries simply change the number of countries/devices or change the countries/devices.

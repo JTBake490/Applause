@@ -8,6 +8,7 @@ The script to run the application is:
     python Applause.py
 
 The thought exercise is located in the same folder.
+
 ---------------------------------------------------------------------------------------------------------------------------------------------
 Edit: 
 
