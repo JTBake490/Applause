@@ -6,7 +6,7 @@ CREATE TABLE testers(
     testerId BIGSERIAL NOT NULL PRIMARY KEY,
     firstName VARCHAR(15) NOT NULL,
     lastName VARCHAR(15) NOT NULL,
-    country char(2),
+    country CHAR(2),
     lastLogin DATE
 );
 
